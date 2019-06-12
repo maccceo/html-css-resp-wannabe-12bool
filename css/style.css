@@ -25,3 +25,21 @@ img{
   border-radius:50%;
   padding:30px
 }
+
+/*
+
+TABELLA RIASSUNTIVA GESTIONE RESPONSIVE:
+
+$ $ Mobile version $ $
+- #lezioni, #steps, #why = 100% / row
+
+$ $ Tablet version $ $
+- #lezioni = 50% / row
+- #steps = 100% / row
+- #why = 33% / row
+
+$ $ Desktop version $ $
+- #lezioni = 50% / row
+- #steps, #why = 33% / row
+
+*/
